@@ -1,1 +1,1 @@
-Trying out LLMs for code generation, from python into C++. 
+Code conversion between Python and C++ to compare efficiency, using OpenAIs gpt-4o-mini and Anthropics claude-3-5-sonnet-20240620.
